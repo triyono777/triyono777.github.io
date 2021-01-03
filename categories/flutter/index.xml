@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>flutter on My New Hugo Site</title>
-    <link>http://example.org/categories/flutter/</link>
+    <link>https://triyono777.github.io/categories/flutter/</link>
     <description>Recent content in flutter on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 03 Jan 2021 09:46:10 +0700</lastBuildDate><atom:link href="http://example.org/categories/flutter/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 09:46:10 +0700</lastBuildDate><atom:link href="https://triyono777.github.io/categories/flutter/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Roadmap Flutter</title>
-      <link>http://example.org/posts/roadmap-flutter/</link>
+      <link>https://triyono777.github.io/posts/roadmap-flutter/</link>
       <pubDate>Sun, 03 Jan 2021 09:46:10 +0700</pubDate>
       
-      <guid>http://example.org/posts/roadmap-flutter/</guid>
+      <guid>https://triyono777.github.io/posts/roadmap-flutter/</guid>
       <description>&lt;p&gt;Road map&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>ArticleTitle</title>
-      <link>http://example.org/posts/articletitle/</link>
+      <link>https://triyono777.github.io/posts/articletitle/</link>
       <pubDate>Sun, 03 Jan 2021 09:37:12 +0700</pubDate>
       
-      <guid>http://example.org/posts/articletitle/</guid>
+      <guid>https://triyono777.github.io/posts/articletitle/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     
