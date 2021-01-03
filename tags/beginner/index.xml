@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>beginner on My New Hugo Site</title>
+    <link>http://example.org/tags/beginner/</link>
+    <description>Recent content in beginner on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 03 Jan 2021 09:37:12 +0700</lastBuildDate><atom:link href="http://example.org/tags/beginner/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ArticleTitle</title>
+      <link>http://example.org/posts/articletitle/</link>
+      <pubDate>Sun, 03 Jan 2021 09:37:12 +0700</pubDate>
+      
+      <guid>http://example.org/posts/articletitle/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
