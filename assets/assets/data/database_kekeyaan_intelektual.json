@@ -1,0 +1,85 @@
+{
+    "status": true,
+    "message": "sukses get database Kekayaan Inteletual",
+    "data": [
+        {
+
+            "id":1,
+            "HKI_title": "Merek xyz",
+            "no_registration": "J00393987277222",
+            "status": "dalam Proses",
+            "tahun_pendaftaran":"2016",
+            "tahun_terdaftar": "2018",
+            "Jenis_permohonan_HKI": "Merek",
+            "nama": "CV. SATU DUA TIGA",
+            "alamat": "Jl. Satu dua tiga, Kecamatan Satu, Kelurahan dua",
+            "no_telp": "088888",
+            "email": "email@email.com",
+            "penyelengara": "nama Penyelengara",
+            "acara": "acara",
+            "kelas": "42"
+
+
+        },
+        {
+
+            "id":2,
+            "HKI_title": "Merek PQR",
+            "no_registration": "J00393987277211",
+            "status": "dalam Proses",
+            "tahun_pendaftaran":"2016",
+            "tahun_terdaftar": "2020",
+            "Jenis_permohonan_HKI": "Merek",
+            "nama": "CV. SATU DUA TIGA",
+            "alamat": "Jl. Satu dua tiga, Kecamatan Satu, Kelurahan dua",
+            "no_telp": "088888",
+            "email": "email@email.com",
+            "penyelengara": "nama Penyelengara",
+            "acara": "acara",
+            "kelas": "42"
+
+
+        },
+        {
+
+            "id":2,
+            "HKI_title": "Merek QWE",
+            "no_registration": "J00393987277277",
+            "status": "dalam Proses",
+            "tahun_pendaftaran":"2011",
+            "tahun_terdaftar": "2019",
+            "Jenis_permohonan_HKI": "Merek",
+            "nama": "CV. SATU DUA TIGA",
+            "alamat": "Jl. Satu dua tiga, Kecamatan Satu, Kelurahan dua",
+            "no_telp": "088888",
+            "email": "email@email.com",
+            "penyelengara": "nama Penyelengara",
+            "acara": "acara",
+            "kelas": "42"
+
+
+        },
+        {
+
+            "id":3,
+            "HKI_title": "Merek",
+            "no_registration": "J003939872772",
+            "status": "dalam Proses",
+            "tahun_pendaftaran":"2016",
+            "tahun_terdaftar": "2019",
+            "Jenis_permohonan_HKI": "Merek",
+            "nama": "CV. SATU DUA TIGA",
+            "alamat": "Jl. Satu dua tiga, Kecamatan Satu, Kelurahan dua",
+            "no_telp": "088888",
+            "email": "email@email.com",
+            "penyelengara": "nama Penyelengara",
+            "acara": "acara",
+            "kelas": "42"
+
+
+        }
+
+
+    ]
+
+}
