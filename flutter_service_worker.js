@@ -3,52 +3,37 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "version.json": "236c400fc73fcfc49eb88adeeb022c8a",
-"index.html": "d299ae3d9f5697f147b46f6715265325",
-"/": "d299ae3d9f5697f147b46f6715265325",
-"main.dart.js": "74b09573845be25e20f67d24c159f0a1",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
+  "favicon.png": "5dcef449791fa27946b3d35ad8803796",
+"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "00bb2b684be61e89d1bc7d75dee30b58",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "dffd9504fcb1894620fa41c700172994",
+"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "4b6a9b7c20913279a3ad3dd9c96e155b",
+"assets/FontManifest.json": "40650f9c93b544ef181b8ee8b2081da2",
+"assets/AssetManifest.json": "588707e1db01685fbdbc11d49a34b4d0",
+"assets/assets/fonts/Sora-SemiBold.ttf": "fb54a7a5fdc54d9385f3f42421083ca4",
+"assets/assets/fonts/Sora-Thin.ttf": "c41ed373cfbf85cd6deb945dbd4996c0",
+"assets/assets/fonts/Sora-Bold.ttf": "8b24edfb87ce7942c970dbaeaa73a511",
+"assets/assets/fonts/Sora-ExtraBold.ttf": "23b29030a22fc02a05c8ca5d2cda8bc5",
+"assets/assets/fonts/Sora-Light.ttf": "7f06929d385c8e70bea8a38323131f95",
+"assets/assets/fonts/Sora-ExtraLight.ttf": "1c34f38a4a8927db7cb4d3f1a83513bc",
+"assets/assets/fonts/Sora-Regular.ttf": "aa64200d21f88f287becbe3f3cebaf0e",
+"assets/assets/fonts/Sora-Medium.ttf": "9c1ba7104b2436c8727769f61996981d",
+"assets/assets/images/qr-code.png": "281923eb845d7266c6da2632b7d54881",
+"assets/assets/images/person_place_holder.png": "ec35a78663a7a5cc71f54fe96c5ce0cb",
+"assets/assets/images/ovo.png": "bfe14f3bfa98e430b1d5ea24fb6197df",
+"assets/assets/images/link_aja.png": "be9a57fca8782e73e614cda9ffbdf078",
+"assets/assets/images/app-store-png-logo.png": "e3e1fe9bf0c1d73af6ae6cc614549f77",
+"assets/assets/images/playstore.png": "26829051540ce58435b4bf74937df04f",
+"assets/assets/images/appstore.png": "b6354d5d38bb0b38bb70bea1efe71f7e",
+"assets/fonts/MaterialIcons-Regular.otf": "4e6447691c9509f7acdbf8a931a85ca1",
+"assets/NOTICES": "0ebda25f4b6251400fa425a55ec6c86c",
+"version.json": "9dd7db0507f60f56fe1f3236841bc17a",
+"index.html": "369b726233c3a41d94fbe0cfa2efa238",
+"/": "369b726233c3a41d94fbe0cfa2efa238",
+"manifest.json": "3567fd2eaf51fdeb9f677b5f212f47d5",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"manifest.json": "fb1b3098f01acfad030db1081e87dfc6",
-"assets/AssetManifest.json": "eaea267187bd78af559c367ceeb0b183",
-"assets/NOTICES": "edd03e1b2a23246a222d89ebe4e8e5de",
-"assets/FontManifest.json": "5a32d4310a6f5d9a6b651e75ba0d7372",
-"assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "6d342eb68f170c97609e9da345464e5e",
-"assets/packages/map_launcher/assets/icons/citymapper.svg": "58c49ff6df286e325c21a28ebf783ebe",
-"assets/packages/map_launcher/assets/icons/tencent.svg": "4e1babec6bbab0159bdc204932193a89",
-"assets/packages/map_launcher/assets/icons/yandexNavi.svg": "bad6bf6aebd1e0d711f3c7ed9497e9a3",
-"assets/packages/map_launcher/assets/icons/yandexMaps.svg": "3dfd1d365352408e86c9c57fef238eed",
-"assets/packages/map_launcher/assets/icons/doubleGis.svg": "ab8f52395c01fcd87ed3e2ed9660966e",
-"assets/packages/map_launcher/assets/icons/mapswithme.svg": "87df7956e58cae949e88a0c744ca49e8",
-"assets/packages/map_launcher/assets/icons/google.svg": "cb318c1fc31719ceda4073d8ca38fc1e",
-"assets/packages/map_launcher/assets/icons/googleGo.svg": "cb318c1fc31719ceda4073d8ca38fc1e",
-"assets/packages/map_launcher/assets/icons/osmand.svg": "639b2304776a6794ec682a926dbcbc4c",
-"assets/packages/map_launcher/assets/icons/baidu.svg": "22335d62432f9d5aac833bcccfa5cfe8",
-"assets/packages/map_launcher/assets/icons/apple.svg": "6fe49a5ae50a4c603897f6f54dec16a8",
-"assets/packages/map_launcher/assets/icons/waze.svg": "311a17de2a40c8fa1dd9022d4e12982c",
-"assets/packages/map_launcher/assets/icons/amap.svg": "00409535b144c70322cd4600de82657c",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-solid-900.ttf": "d80ca32233940ebadc5ae5372ccd67f9",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-regular-400.ttf": "a126c025bab9a1b4d8ac5534af76a208",
-"assets/packages/font_awesome_flutter/lib/fonts/fa-brands-400.ttf": "831eb40a2d76095849ba4aecd4340f19",
-"assets/packages/wakelock_web/assets/no_sleep.js": "7748a45cd593f33280669b29c2c8919a",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/assets/image/biima_logo.png": "4eee701cb2fb1b86a8f3935274647651",
-"assets/assets/image/pajangan_batik.jpg": "2817c384cd90d32b4bee1a51bdf49c88",
-"assets/assets/image/logo_thoughtful_indonesia_white.png": "c97b14fd17dd76d29d600ba9fbfce848",
-"assets/assets/image/kemenparekraf.png": "29bb398511ea942ea5a1ce944d55bc21",
-"assets/assets/lottie/loading.json": "0be9f880bf280df35450a406e7c8c29f",
-"assets/assets/data/home_kekeyaan_intelektual.json": "d9f6d76535750356fabf9280a59aa411",
-"assets/assets/data/test.json": "d1a80402d4727c62b35e2d3b3cef410d",
-"assets/assets/data/home_karya_anda.json": "a68e1460db35695101f1c67d087a235c",
-"assets/assets/data/karya_anda/1.json": "354c64fbefee8a4535f394b4dd1b4ad4",
-"assets/assets/data/karya_anda/2.json": "fdab62ac2aa9d39262d87dd3c574f669",
-"assets/assets/data/karya_anda/3.json": "94c7f463c0078a48f636a7ba67f03f00",
-"assets/assets/data/kekayaan_intelektual/1.json": "22a7ef7f96508f288402d674d9b4dc04",
-"assets/assets/data/kekayaan_intelektual/2.json": "130da2121fb221979c88f1dd5fdee5c6",
-"assets/assets/data/kekayaan_intelektual/3.json": "22a7ef7f96508f288402d674d9b4dc04",
-"assets/assets/data/database_kekeyaan_intelektual.json": "f01211a7007964a62f072c2c2504aadb",
-"assets/assets/data/test2.json": "bd670d6503c525ee050d3c7510fa1b9d"
+"main.dart.js": "e8a288f03575a86deaed5a263193ac2d"
 };
 
 // The application shell files that are downloaded before a service worker can
@@ -66,7 +51,7 @@ self.addEventListener("install", (event) => {
   return event.waitUntil(
     caches.open(TEMP).then((cache) => {
       return cache.addAll(
-        CORE.map((value) => new Request(value + '?revision=' + RESOURCES[value], {'cache': 'reload'})));
+        CORE.map((value) => new Request(value, {'cache': 'reload'})));
     })
   );
 });
