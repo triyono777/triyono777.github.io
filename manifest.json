@@ -1,11 +1,11 @@
 {
-    "name": "dolan_outlet",
-    "short_name": "dolan_outlet",
+    "name": "my_book_room",
+    "short_name": "my_book_room",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "Merchant Side",
+    "description": "A new Flutter project.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
